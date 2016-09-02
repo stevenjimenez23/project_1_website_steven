@@ -8,4 +8,8 @@ div {
   color: blue;
   padding: 18px;
   background-image: url("http://img.fifa.com/mm/photo/ballon-dor/general/02/73/58/85/2735885_xbig-lnd.jpg");
+  margin: 22px;
+}
+a {
+  display: block;
 }
