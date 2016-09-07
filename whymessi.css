@@ -1,0 +1,16 @@
+
+h1 {
+  color: red;
+  padding: 68px;
+  background-image: url("http://wallpapercave.com/wp/wc1735873.png");
+
+}
+div {
+  color: blue;
+  padding: 17px;
+    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT91bhGAolAxkgmH3CJQorkqSSLTKQnwlV5zF94IFSYxK7anbuP");
+    align-text: center;
+  }
+  a {
+    display: block;
+  }
